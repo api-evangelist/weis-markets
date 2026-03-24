@@ -1,0 +1,7 @@
+aid: weis-markets
+url: https://raw.githubusercontent.com/api-evangelist/weis-markets/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.weis-markets.com
