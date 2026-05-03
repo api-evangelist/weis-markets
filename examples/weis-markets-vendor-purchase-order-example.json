@@ -1,0 +1,45 @@
+{
+  "description": "Example Weis Markets vendor purchase order transmitted via EDI/Biceps system",
+  "purchaseOrder": {
+    "orderId": "WM-PO-2026-004521",
+    "orderDate": "2026-05-03",
+    "deliveryDate": "2026-05-07",
+    "status": "OPEN",
+    "store": {
+      "storeNumber": "142",
+      "storeName": "Weis Markets #142",
+      "address": "500 Lycoming Mall Circle",
+      "city": "Muncy",
+      "state": "PA",
+      "zip": "17756"
+    },
+    "vendor": {
+      "vendorId": "V-10034",
+      "vendorName": "Fresh Valley Produce Co.",
+      "contactEmail": "orders@freshvalley.com"
+    },
+    "lineItems": [
+      {
+        "lineNumber": 1,
+        "upc": "012345678901",
+        "description": "Organic Baby Spinach 5oz",
+        "quantity": 48,
+        "unitOfMeasure": "EACH",
+        "unitCost": 2.89,
+        "totalCost": 138.72
+      },
+      {
+        "lineNumber": 2,
+        "upc": "012345678902",
+        "description": "Romaine Hearts 3-pack",
+        "quantity": 36,
+        "unitOfMeasure": "EACH",
+        "unitCost": 3.49,
+        "totalCost": 125.64
+      }
+    ],
+    "orderSubtotal": 264.36,
+    "freightAllowance": 0.00,
+    "orderTotal": 264.36
+  }
+}

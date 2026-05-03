@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "weis": "https://www.weismarkets.com/vocab#",
+
+    "WeisMarkets": "schema:Organization",
+    "WeisStore": "schema:GroceryStore",
+    "WeisProduct": "schema:Product",
+    "WeisRewardsProgram": "schema:LoyaltyProgram",
+    "WeisVendor": "schema:Organization",
+    "WeisPurchaseOrder": "schema:Order",
+
+    "storeId": { "@id": "schema:identifier", "@type": "xsd:string" },
+    "storeNumber": { "@id": "weis:storeNumber", "@type": "xsd:string" },
+    "storeName": { "@id": "schema:name", "@type": "xsd:string" },
+    "storeAddress": { "@id": "schema:address", "@type": "schema:PostalAddress" },
+    "storePhone": { "@id": "schema:telephone", "@type": "xsd:string" },
+    "storeHours": { "@id": "schema:openingHoursSpecification" },
+
+    "productId": { "@id": "schema:productID", "@type": "xsd:string" },
+    "productName": { "@id": "schema:name", "@type": "xsd:string" },
+    "productBrand": { "@id": "schema:brand", "@type": "schema:Brand" },
+    "productCategory": { "@id": "schema:category", "@type": "xsd:string" },
+    "productPrice": { "@id": "schema:price", "@type": "xsd:decimal" },
+    "productUPC": { "@id": "schema:gtin12", "@type": "xsd:string" },
+
+    "memberId": { "@id": "schema:identifier", "@type": "xsd:string" },
+    "memberPoints": { "@id": "weis:rewardPoints", "@type": "xsd:integer" },
+    "memberTier": { "@id": "weis:memberTier", "@type": "xsd:string" },
+
+    "vendorId": { "@id": "schema:identifier", "@type": "xsd:string" },
+    "vendorName": { "@id": "schema:name", "@type": "xsd:string" },
+    "vendorContact": { "@id": "schema:contactPoint" },
+
+    "orderId": { "@id": "schema:orderNumber", "@type": "xsd:string" },
+    "orderDate": { "@id": "schema:orderDate", "@type": "xsd:date" },
+    "orderStatus": { "@id": "schema:orderStatus" },
+    "orderItems": { "@id": "schema:orderedItem" },
+    "orderTotal": { "@id": "schema:price", "@type": "xsd:decimal" }
+  }
+}

@@ -1,0 +1,81 @@
+vocabulary:
+  provider: Weis Markets
+  description: >-
+    Vocabulary for Weis Markets, a regional mid-Atlantic supermarket chain
+    operating grocery, pharmacy, fuel, and floral departments with 197 store
+    locations. Covers retail grocery, supply chain, loyalty, and digital commerce
+    terminology.
+  tags:
+    - Grocery
+    - Retail
+    - Supply Chain
+    - Loyalty
+    - Digital Commerce
+    - Mid-Atlantic
+
+  domains:
+    - name: Retail Operations
+      terms:
+        - term: Store
+          definition: An individual Weis Markets grocery retail location.
+        - term: Store Number
+          definition: Unique numeric identifier assigned to each store location.
+        - term: Weis 2 Go Online
+          definition: Weis Markets' online grocery ordering service for pickup and delivery.
+        - term: Curbside Pickup
+          definition: Service allowing customers to order online and collect groceries without entering the store.
+        - term: In-Store Pickup
+          definition: Order online and collect inside the store.
+        - term: ELERA Commerce Platform
+          definition: Toshiba ELERA cloud-enabled commerce platform used by Weis Markets for unified in-store and online commerce, loyalty, and promotions.
+
+    - name: Vendor and Supply Chain
+      terms:
+        - term: Vendor
+          definition: A supplier or manufacturer providing products sold at Weis Markets.
+        - term: Biceps
+          definition: Weis Markets' purchase order management system used by vendors for order receipt and processing.
+        - term: EDI
+          definition: Electronic Data Interchange - standardized electronic format for transmitting purchase orders, invoices, and other supply chain documents.
+        - term: Vendor Portal
+          definition: StreamCollab-powered online portal at weismarkets.streamcollab.com for vendor deal submissions, item management, and contact updates.
+        - term: Freight Compliance
+          definition: Weis Markets' guidelines for vendor shipment scheduling, labeling, and delivery requirements.
+        - term: Item Setup
+          definition: Process for onboarding new products into the Weis Markets item management system.
+        - term: Vendor Deal
+          definition: A promotional agreement submitted electronically through the Vendor Portal.
+
+    - name: Loyalty and Digital
+      terms:
+        - term: Weis Rewards
+          definition: Weis Markets' customer loyalty program offering points, discounts, and personalized offers on purchases.
+        - term: Rewards Card
+          definition: Physical or digital card linked to a customer's Weis Rewards account.
+        - term: Reward Points
+          definition: Points earned on qualifying purchases, redeemable for discounts or fuel savings.
+        - term: Birdzi
+          definition: Analytics platform powering Weis Markets loyalty personalization and customer insights.
+        - term: CitrusAd
+          definition: Digital advertising network providing targeted CPG ads on the Weis Markets website and app.
+        - term: Mercatus
+          definition: E-grocery platform powering the Weis Markets online shopping website.
+        - term: Instacart Connect
+          definition: Third-party grocery delivery fulfillment integration used by Weis Markets.
+        - term: Amazon Loyalty Integration
+          definition: Partnership enabling customers to earn Weis Rewards points on Amazon purchases by linking accounts.
+
+    - name: Product and Merchandising
+      terms:
+        - term: UPC
+          definition: Universal Product Code - 12-digit barcode identifying a retail product.
+        - term: SKU
+          definition: Stock Keeping Unit - internal identifier for a specific product variant.
+        - term: PLU
+          definition: Price Look-Up code - used for produce and bulk items at checkout.
+        - term: Department
+          definition: Organizational unit within a store (e.g., Produce, Dairy, Bakery, Pharmacy, Deli).
+        - term: Private Label
+          definition: Weis Markets' store-brand products sold under the Weis and Bowl & Basket labels.
+        - term: Planogram
+          definition: Visual diagram specifying product placement and shelf positioning in the store.
