@@ -10,6 +10,8 @@ description: >-
   supply chain APIs. Weis Markets uses Toshiba ELERA commerce platform for
   unified in-store and online commerce.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/weis-markets
   - type: Website
     url: https://www.weismarkets.com
   - type: VendorPortal
