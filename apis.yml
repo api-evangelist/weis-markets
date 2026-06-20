@@ -35,7 +35,7 @@ apis:
       - Supply Chain
       - EDI
       - Vendor Management
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://weismarkets.streamcollab.com
     humanURL: https://www.weismarkets.com/vendor-partners
     description: >-
@@ -61,7 +61,7 @@ apis:
       - Loyalty
       - Rewards
       - Digital Commerce
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://www.weismarkets.com
     humanURL: https://www.weismarkets.com
     description: >-
