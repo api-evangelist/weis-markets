@@ -52,7 +52,7 @@ apis:
       - url: https://weismarkets.streamcollab.com/
         type: Portal
       - url: examples/weis-markets-vendor-purchase-order-example.json
-        type: Example
+        type: Examples
   - aid: weis-markets:loyalty-rewards-api
     name: Weis Markets Loyalty Rewards API
     tags:
