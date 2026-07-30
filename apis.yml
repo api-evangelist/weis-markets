@@ -1,4 +1,17 @@
 aid: weis-markets
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/weis-markets.png
 tags:
   - Fortune 1000
 url: https://raw.githubusercontent.com/api-evangelist/weis-markets/refs/heads/main/apis.yml
