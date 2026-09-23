@@ -1,7 +1,9 @@
 ---
 title: WEIS MARKETS, INC_December 27, 2025
 url: https://www.sec.gov/Archives/edgar/data/105418/000010541826000024/wmk-20251227x10k.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weis Markets" press release artificial intelligence'
 position: 4
 source: serpapi-google

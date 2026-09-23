@@ -1,7 +1,9 @@
 ---
 title: Weis Markets partners with Cognira to enhance promotion ...
 url: https://cognira.com/news/weis-markets-partners-with-cognira-to-enhance-promotion-efficiency-and-results/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weis Markets" press release artificial intelligence'
 position: 2
 source: serpapi-google

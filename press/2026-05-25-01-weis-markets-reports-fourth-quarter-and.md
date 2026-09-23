@@ -1,7 +1,9 @@
 ---
 title: WEIS MARKETS REPORTS FOURTH QUARTER AND ...
 url: https://www.prnewswire.com/news-releases/weis-markets-reports-fourth-quarter-and-fiscal-year-2025-results-302712905.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Weis Markets" press release artificial intelligence'
 position: 1
 source: serpapi-google
