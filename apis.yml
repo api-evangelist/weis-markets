@@ -90,7 +90,6 @@ apis:
       - Rewards
       - Digital Commerce
     image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    baseURL: https://www.weismarkets.com
     humanURL: https://www.weismarkets.com
     description: >-
       The Weis Markets Loyalty Rewards API supports the Weis Rewards program,
