@@ -38,6 +38,12 @@ description: >-
   supply chain APIs. Weis Markets uses Toshiba ELERA commerce platform for
   unified in-store and online commerce.
 common:
+  - type: Plans
+    url: plans/weis-markets-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/weis-markets-rate-limits.yml
+  - type: FinOps
+    url: finops/weis-markets-finops.yml
   - type: DomainSecurity
     url: security/weis-markets-domain-security.yml
   - type: LinkedIn
